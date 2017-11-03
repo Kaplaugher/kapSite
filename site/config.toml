@@ -80,10 +80,10 @@ theme = "hugo-elate-theme"
   [params.services]
     enable = true
     title = "Services"
-    description = "We create modern, lightning fast websites and apps"
+    description = "We create modern, lightning fast websites"
 
     [[params.services.item]]
-      title = "Website and app development using modern methodologies"
+      title = "Website development using modern methodologies"
       description = "Modern sites need to be super fast and secure. The JAMStack is the new way to do this without breaking the bank"
       icon = "icon-anchor"
 
