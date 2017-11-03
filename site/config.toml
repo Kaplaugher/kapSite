@@ -10,8 +10,8 @@ theme = "hugo-elate-theme"
 
   # Meta
   author = ""
-  description = ""
-  email = "kaplaugher@kaptivating.io"
+  description = "KAPtivating Web Solutions"
+  email = "kaplaugher94@gmail.com"
   # Navigation
   [params.navigation]
     brand = "{ KWS }"
