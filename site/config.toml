@@ -39,7 +39,7 @@ theme = "hugo-elate-theme"
   
   # Hero section
   [params.hero]
-    title = "Create a better web presence for your business"
+    title = "At KAPtivating Web Solutions, we create a better web presence for your business"
     subtitle = 'Attract more customers and make more money'
  
   # Intro section
