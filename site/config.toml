@@ -108,7 +108,7 @@ theme = "hugo-elate-theme"
     enable = true
     map = true
     title = "Get in touch"
-    description = "Contact us using the form below to set up your 100% free consultation. Let us help you reach your full potential."
+    description = "Contact us using the form below to set up your 100% free consultation. Let us help your business reach its full potential."
     
     # Available icons: http://simplelineicons.com/
     details = [
